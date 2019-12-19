@@ -1,0 +1,43 @@
+package com.angular.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="Person")
+public class Person {
+	
+	@Id
+	@Column(name="PersonId")
+private int personId;
+
+
+	@Column(name="PersonName")
+private String personName;
+
+
+	@Column(name="gender")
+private String gender;
+
+
+public int getPersonId() {
+	return personId;
+}
+public void setPersonId(int personId) {
+	this.personId = personId;
+}
+public String getPersonName() {
+	return personName;
+}
+public void setPersonName(String personName) {
+	this.personName = personName;
+}
+public String getGender() {
+	return gender;
+}
+public void setGender(String gender) {
+	this.gender = gender;
+}
+}

@@ -1,0 +1,36 @@
+
+Nov 26, 2019 19:52:25.32 NEW SESSION
+Nov 26, 2019 19:52:25.32 [17896:4544:1126/195225.306:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:26.31 [17896:4544:1126/195226.311:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:27.31 [17896:4544:1126/195227.314:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:28.72 [17896:4544:1126/195228.721:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:29.88 [17896:4544:1126/195229.886:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:30.95 [17896:4544:1126/195230.954:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:33.19 [17896:4544:1126/195233.192:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:35.62 [17896:4544:1126/195235.628:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:39.68 [17896:4544:1126/195239.681:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:40.78 [17896:4544:1126/195240.786:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:44.52 [17896:4544:1126/195244.521:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:48.85 [17896:4544:1126/195248.854:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 26, 2019 19:52:49.83 [17896:4544:1126/195249.832:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 1.107 s for first_image_paint 1.074 s
+Nov 27, 2019 24:22:37.51 [17896:4544:1127/002237.515:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 27, 2019 03:12:33.50 [17896:4544:1127/031233.507:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 27, 2019 05:41:35.76 [17896:4544:1127/054135.765:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 27, 2019 09:01:47.54 [17896:4544:1127/090147.546:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 27, 2019 14:00:10.98 [17896:4544:1127/140010.981:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 27, 2019 16:23:46.50 [17896:4544:1127/162346.508:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 27, 2019 21:41:25.95 [17896:4544:1127/214125.959:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 28, 2019 24:22:56.98 [17896:4544:1128/002256.984:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 28, 2019 03:16:37.95 [17896:4544:1128/031637.956:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 28, 2019 05:46:37.91 [17896:4544:1128/054637.918:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 28, 2019 10:00:44.86 [17896:4544:1128/100044.866:ERROR:gcm_channel_status_request.cc(145)] GCM channel request failed.
+Nov 28, 2019 10:02:49.78 [17896:4544:1128/100249.785:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s
+Nov 28, 2019 10:02:50.84 [17896:4544:1128/100250.845:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s
+Nov 28, 2019 10:02:51.86 [17896:4544:1128/100251.864:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s
+Nov 28, 2019 10:02:52.88 [17896:4544:1128/100252.881:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s
+Nov 28, 2019 10:02:53.92 [17896:4544:1128/100253.923:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s
+Nov 28, 2019 10:02:54.94 [17896:4544:1128/100254.942:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s
+Nov 28, 2019 10:02:56.37 [17896:4544:1128/100256.377:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s
+Nov 28, 2019 10:02:58.75 [17896:4544:1128/100258.752:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s
+Nov 28, 2019 10:03:00.53 [17896:4544:1128/100300.530:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s
+Nov 28, 2019 10:03:00.57 [17896:4544:1128/100300.578:ERROR:page_load_metrics_update_dispatcher.cc(166)] Invalid first_paint 0.693 s for first_image_paint 0.643 s

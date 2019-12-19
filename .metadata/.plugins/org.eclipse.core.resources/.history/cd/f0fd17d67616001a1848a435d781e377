@@ -1,0 +1,25 @@
+package com.angular.model;
+
+public class Person {
+private int personId;
+private String personName;
+private String gender;
+public int getPersonId() {
+	return personId;
+}
+public void setPersonId(int personId) {
+	this.personId = personId;
+}
+public String getPersonName() {
+	return personName;
+}
+public void setPersonName(String personName) {
+	this.personName = personName;
+}
+public String getGender() {
+	return gender;
+}
+public void setGender(String gender) {
+	this.gender = gender;
+}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DbConfig.java&apos; to &apos;Person/src/main/java/com.angular.config&apos;&#x0D;&#x0A;- Original project: &apos;Billing-Backend&apos;&#x0D;&#x0A;- Destination element: &apos;Person/src/main/java/com.angular.config&apos;&#x0D;&#x0A;- Original element: &apos;com.iris.config.DbConfig.java&apos;" description="Copy compilation unit" destination="=Person/src\/main\/java&lt;com.angular.config" element1="/src\/main\/java&lt;com.iris.config{DbConfig.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1575448557887" units="1" version="1.0"/>
+</session>

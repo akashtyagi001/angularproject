@@ -1,0 +1,5 @@
+package com.angular.services;
+
+public interface PersonService {
+
+}

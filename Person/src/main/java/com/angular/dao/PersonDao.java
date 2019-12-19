@@ -1,0 +1,14 @@
+package com.angular.dao;
+
+import java.util.List;
+
+import com.angular.model.Person;
+
+public interface PersonDao {
+	List<Person> getAllPersons();
+public boolean deletePerson(int PObj);
+public boolean addPerson(Person Obj);
+//public boolean updatedPerson(Person Obj);
+//public boolean getPersonbyId(int personId);
+//public Person validate(int personId,String password);
+}

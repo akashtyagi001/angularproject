@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.online.Store.Testcase" time="1.553" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\akash.tyagi\eclipse-workspace\Store\target\test-classes;C:\Users\akash.tyagi\eclipse-workspace\Store\target\classes;C:\Users\akash.tyagi\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\akash.tyagi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-context\5.1.5.RELEASE\spring-context-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-aop\5.1.5.RELEASE\spring-aop-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-beans\5.1.5.RELEASE\spring-beans-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-core\5.1.5.RELEASE\spring-core-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-jcl\5.1.5.RELEASE\spring-jcl-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-expression\5.1.5.RELEASE\spring-expression-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-orm\5.1.5.RELEASE\spring-orm-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-jdbc\5.1.5.RELEASE\spring-jdbc-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-tx\5.1.5.RELEASE\spring-tx-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\hibernate\hibernate-core\5.1.5.Final\hibernate-core-5.1.5.Final.jar;C:\Users\akash.tyagi\.m2\repository\org\jboss\logging\jboss-logging\3.3.0.Final\jboss-logging-3.3.0.Final.jar;C:\Users\akash.tyagi\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.1-api\1.0.0.Final\hibernate-jpa-2.1-api-1.0.0.Final.jar;C:\Users\akash.tyagi\.m2\repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar;C:\Users\akash.tyagi\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar;C:\Users\akash.tyagi\.m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\Users\akash.tyagi\.m2\repository\org\jboss\jandex\2.0.3.Final\jandex-2.0.3.Final.jar;C:\Users\akash.tyagi\.m2\repository\com\fasterxml\classmate\1.3.0\classmate-1.3.0.jar;C:\Users\akash.tyagi\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\akash.tyagi\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\akash.tyagi\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.0.1.Final\hibernate-commons-annotations-5.0.1.Final.jar;C:\Users\akash.tyagi\.m2\repository\com\oracle\ojdbc6\11.0\ojdbc6-11.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\AKASH~1.TYA\AppData\Local\Temp\surefire1808248226019189687\surefirebooter7688352132385395931.jar C:\Users\akash.tyagi\AppData\Local\Temp\surefire1808248226019189687 2019-11-16T15-30-06_220-jvmRun1 surefire3295019484706781211tmp surefire_0200174120452291515tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\akash.tyagi\eclipse-workspace\Store\target\test-classes;C:\Users\akash.tyagi\eclipse-workspace\Store\target\classes;C:\Users\akash.tyagi\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\akash.tyagi\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-context\5.1.5.RELEASE\spring-context-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-aop\5.1.5.RELEASE\spring-aop-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-beans\5.1.5.RELEASE\spring-beans-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-core\5.1.5.RELEASE\spring-core-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-jcl\5.1.5.RELEASE\spring-jcl-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-expression\5.1.5.RELEASE\spring-expression-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-orm\5.1.5.RELEASE\spring-orm-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-jdbc\5.1.5.RELEASE\spring-jdbc-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\springframework\spring-tx\5.1.5.RELEASE\spring-tx-5.1.5.RELEASE.jar;C:\Users\akash.tyagi\.m2\repository\org\hibernate\hibernate-core\5.1.5.Final\hibernate-core-5.1.5.Final.jar;C:\Users\akash.tyagi\.m2\repository\org\jboss\logging\jboss-logging\3.3.0.Final\jboss-logging-3.3.0.Final.jar;C:\Users\akash.tyagi\.m2\repository\org\hibernate\javax\persistence\hibernate-jpa-2.1-api\1.0.0.Final\hibernate-jpa-2.1-api-1.0.0.Final.jar;C:\Users\akash.tyagi\.m2\repository\org\javassist\javassist\3.20.0-GA\javassist-3.20.0-GA.jar;C:\Users\akash.tyagi\.m2\repository\antlr\antlr\2.7.7\antlr-2.7.7.jar;C:\Users\akash.tyagi\.m2\repository\org\apache\geronimo\specs\geronimo-jta_1.1_spec\1.1.1\geronimo-jta_1.1_spec-1.1.1.jar;C:\Users\akash.tyagi\.m2\repository\org\jboss\jandex\2.0.3.Final\jandex-2.0.3.Final.jar;C:\Users\akash.tyagi\.m2\repository\com\fasterxml\classmate\1.3.0\classmate-1.3.0.jar;C:\Users\akash.tyagi\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\akash.tyagi\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\akash.tyagi\.m2\repository\org\hibernate\common\hibernate-commons-annotations\5.0.1.Final\hibernate-commons-annotations-5.0.1.Final.jar;C:\Users\akash.tyagi\.m2\repository\com\oracle\ojdbc6\11.0\ojdbc6-11.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\akash.tyagi"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_152\jre"/>
+    <property name="basedir" value="C:\Users\akash.tyagi\eclipse-workspace\Store"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\AKASH~1.TYA\AppData\Local\Temp\surefire1808248226019189687\surefirebooter7688352132385395931.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_152\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_152\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_152-b16"/>
+    <property name="user.name" value="akash.tyagi"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_152\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\akash.tyagi\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\AKASH~1.TYA\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_152"/>
+    <property name="user.dir" value="C:\Users\akash.tyagi\eclipse-workspace\Store"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_152\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_152/bin/server;C:/Program Files/Java/jre1.8.0_152/bin;C:/Program Files/Java/jre1.8.0_152/lib/amd64;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk1.8.0_152\bin;E:\apache-maven-3.3.9\bin;C:\Users\akash.tyagi\AppData\Local\Microsoft\WindowsApps;;E:\eclipse-jee-oxygen-3a-win32-x86_64\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.152-b16"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_152\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="com.online.Store.Testcase" classname="com.online.Store.Testcase" time="1.552">
+    <error message="Error creating bean with name &apos;ProductDao&apos;: Unsatisfied dependency expressed through field &apos;sessionFactory&apos;; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name &apos;sessionFactory&apos; defined in com.online.Config.DbConfig: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.hibernate.SessionFactory]: Factory method &apos;getSessionFactory&apos; threw exception; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution" type="org.springframework.beans.factory.UnsatisfiedDependencyException">org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'ProductDao': Unsatisfied dependency expressed through field 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in com.online.Config.DbConfig: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.hibernate.SessionFactory]: Factory method 'getSessionFactory' threw exception; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at com.online.Store.Testcase.init(Testcase.java:26)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in com.online.Config.DbConfig: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.hibernate.SessionFactory]: Factory method 'getSessionFactory' threw exception; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at com.online.Store.Testcase.init(Testcase.java:26)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.hibernate.SessionFactory]: Factory method 'getSessionFactory' threw exception; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at com.online.Store.Testcase.init(Testcase.java:26)
+Caused by: org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at com.online.Store.Testcase.init(Testcase.java:26)
+Caused by: java.sql.SQLException: 
+ORA-01017: invalid username/password; logon denied
+
+	at com.online.Store.Testcase.init(Testcase.java:26)
+</error>
+    <system-out><![CDATA[I m in init - start
+Hello 3
+Hello 1
+Hello 2
+]]></system-out>
+    <system-err><![CDATA[Nov 16, 2019 3:30:07 PM org.hibernate.Version logVersion
+INFO: HHH000412: Hibernate Core {5.1.5.Final}
+Nov 16, 2019 3:30:07 PM org.hibernate.cfg.Environment <clinit>
+INFO: HHH000206: hibernate.properties not found
+Nov 16, 2019 3:30:07 PM org.hibernate.cfg.Environment buildBytecodeProvider
+INFO: HHH000021: Bytecode provider name : javassist
+Nov 16, 2019 3:30:07 PM org.hibernate.annotations.common.reflection.java.JavaReflectionManager <clinit>
+INFO: HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+Nov 16, 2019 3:30:08 PM org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator initiateService
+WARN: HHH000342: Could not obtain connection to query metadata : ORA-01017: invalid username/password; logon denied
+
+Nov 16, 2019 3:30:08 PM org.hibernate.dialect.Dialect <init>
+INFO: HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+Nov 16, 2019 3:30:08 PM org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl makeLobCreatorBuilder
+INFO: HHH000422: Disabling contextual LOB creation as connection was null
+Nov 16, 2019 3:30:08 PM org.hibernate.hql.spi.id.IdTableHelper executeIdTableCreationStatements
+ERROR: Unable obtain JDBC Connection
+java.sql.SQLException: ORA-01017: invalid username/password; logon denied
+
+	at oracle.jdbc.driver.SQLStateMapping.newSQLException(SQLStateMapping.java:70)
+	at oracle.jdbc.driver.DatabaseError.newSQLException(DatabaseError.java:133)
+	at oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:206)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:455)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:406)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:399)
+	at oracle.jdbc.driver.T4CTTIoauthenticate.receiveOauth(T4CTTIoauthenticate.java:799)
+	at oracle.jdbc.driver.T4CConnection.logon(T4CConnection.java:368)
+	at oracle.jdbc.driver.PhysicalConnection.<init>(PhysicalConnection.java:508)
+	at oracle.jdbc.driver.T4CConnection.<init>(T4CConnection.java:203)
+	at oracle.jdbc.driver.T4CDriverExtension.getConnection(T4CDriverExtension.java:33)
+	at oracle.jdbc.driver.OracleDriver.connect(OracleDriver.java:510)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriverManager(DriverManagerDataSource.java:154)
+	at org.springframework.jdbc.datasource.DriverManagerDataSource.getConnectionFromDriver(DriverManagerDataSource.java:145)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnectionFromDriver(AbstractDriverBasedDataSource.java:205)
+	at org.springframework.jdbc.datasource.AbstractDriverBasedDataSource.getConnection(AbstractDriverBasedDataSource.java:169)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.internal.SessionFactoryImpl$3.obtainConnection(SessionFactoryImpl.java:644)
+	at org.hibernate.hql.spi.id.IdTableHelper.executeIdTableCreationStatements(IdTableHelper.java:67)
+	at org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:125)
+	at org.hibernate.hql.spi.id.global.GlobalTemporaryTableBulkIdStrategy.finishPreparation(GlobalTemporaryTableBulkIdStrategy.java:42)
+	at org.hibernate.hql.spi.id.AbstractMultiTableBulkIdStrategyImpl.prepare(AbstractMultiTableBulkIdStrategyImpl.java:88)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:452)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:465)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:711)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:727)
+	at com.online.Config.DbConfig.getSessionFactory(DbConfig.java:49)
+	at com.online.Config.DbConfig$$EnhancerBySpringCGLIB$$b12b9b08.CGLIB$getSessionFactory$0(<generated>)
+	at com.online.Config.DbConfig$$EnhancerBySpringCGLIB$$b12b9b08$$FastClassBySpringCGLIB$$cce40a4b.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:363)
+	at com.online.Config.DbConfig$$EnhancerBySpringCGLIB$$b12b9b08.getSessionFactory(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:622)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:456)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1305)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1144)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1247)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1167)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1395)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:592)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:849)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.context.annotation.AnnotationConfigApplicationContext.<init>(AnnotationConfigApplicationContext.java:88)
+	at com.online.Store.Testcase.init(Testcase.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:24)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:365)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:273)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:238)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:159)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+
+Nov 16, 2019 3:30:08 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+WARN: SQL Error: 1017, SQLState: 72000
+Nov 16, 2019 3:30:08 PM org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions
+ERROR: ORA-01017: invalid username/password; logon denied
+
+Nov 16, 2019 3:30:08 PM org.springframework.context.support.AbstractApplicationContext refresh
+WARNING: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'ProductDao': Unsatisfied dependency expressed through field 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in com.online.Config.DbConfig: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.hibernate.SessionFactory]: Factory method 'getSessionFactory' threw exception; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+]]></system-err>
+  </testcase>
+</testsuite>

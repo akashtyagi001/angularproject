@@ -1,0 +1,9 @@
+package com.angular.services;
+
+import java.util.List;
+
+import com.angular.model.Person;
+
+public interface PersonService {
+	List<Person> getAllPersons();
+}

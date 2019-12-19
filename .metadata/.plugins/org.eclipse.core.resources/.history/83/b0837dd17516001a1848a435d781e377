@@ -1,0 +1,27 @@
+package com.angular.serviceImpl;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.angular.model.Person;
+import com.angular.services.PersonService;
+import com.angular.dao.PersonDao;
+
+@Component
+@Service("PersonService")
+@Transactional
+public class PersonServiceImpl implements PersonService{
+
+	@Autowired
+   private PersonDao PersonDaoObj;
+	
+	public List<Person> getAllPersons() {
+		return PersonDaoObj.getAllPersons();
+	
+	}
+
+}
